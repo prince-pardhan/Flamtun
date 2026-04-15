@@ -57,7 +57,7 @@ export default function MusicStudio() {
 
                             <Text mt="md" c="dimmed">
                                 Professional recording, mixing & mastering services. Turn your
-                                ideas into high-quality music.
+                                ideas into high-quality music......
                             </Text>
 
                             <Group mt="lg">
