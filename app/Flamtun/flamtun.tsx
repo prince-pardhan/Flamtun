@@ -38,12 +38,7 @@ export default function MusicStudio() {
             <AppShell.Header style={{ background: "#000000" }}>
                 <Group justify="space-between" px="lg" h="100%">
                     <Title order={3} c="pink" fw={800}>Cult Production</Title>
-            
-                    <Group>
-                        <Button variant="subtle" c="white" fw={900}>Home</Button>
-                        <Button variant="subtle" c="white"fw={900}>About</Button>
-                        <Button variant="subtle" c="white"fw={900}>Services</Button>
-                    </Group>
+
                 </Group>
             </AppShell.Header>
 
