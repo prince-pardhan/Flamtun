@@ -35,13 +35,14 @@ export default function MusicStudio() {
     return (
         <AppShell header={{ height: 70 }} padding="md">
             {/* 🔝 Navbar */}
-            <AppShell.Header style={{ background: "#0a0a0a" }}>
+            <AppShell.Header style={{ background: "#000000" }}>
                 <Group justify="space-between" px="lg" h="100%">
-                    <Title order={3} c="pink">Cult Production</Title>
+                    <Title order={3} c="pink" fw={800}>Cult Production</Title>
+            
                     <Group>
-                        <Button variant="subtle" c="white">Home</Button>
-                        <Button variant="subtle" c="white">About</Button>
-                        <Button variant="subtle" c="white">Services</Button>
+                        <Button variant="subtle" c="white" fw={900}>Home</Button>
+                        <Button variant="subtle" c="white"fw={900}>About</Button>
+                        <Button variant="subtle" c="white"fw={900}>Services</Button>
                     </Group>
                 </Group>
             </AppShell.Header>
