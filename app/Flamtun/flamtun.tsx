@@ -30,6 +30,19 @@ export default function MusicStudio() {
             title: "Beretta VS Gulab",
             url: "https://www.youtube.com/embed/cGPtVEO_cGA",
         },
+        {
+            title: "24x 7 (OFFICAL VIDEO ) KULLU x FLAMTUN | K.REGER & NOHAR",
+            url: "https://www.youtube.com/embed/H0MkfF6hyZ4",
+        },
+        {
+            title: "LOVE ANGZITY – RACHITX (Ft. FLAMTUN)",
+            url: "https://www.youtube.com/embed/oqSqdp3_k44",
+        },
+        {
+            title: "USE BACHAO | RACHITX | Official Music Video",
+            url: "https://www.youtube.com/embed/xukRUUGfZX4",
+        }
+
     ];
 
     return (
@@ -38,6 +51,7 @@ export default function MusicStudio() {
             <AppShell.Header style={{ background: "#000000" }}>
                 <Group justify="space-between" px="lg" h="100%">
                     <Title order={3} c="pink" fw={800}>Cult Production</Title>
+
 
                 </Group>
             </AppShell.Header>
