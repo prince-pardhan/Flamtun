@@ -71,6 +71,9 @@ export default function FooterPage() {
                             <a href="https://wa.me/919057016849" target="_blank">
                                 <Button size="xs" color="green">WhatsApp</Button>
                             </a>
+                            <a href="https://www.youtube.com/@cultproduction01" target="_blank"><Button fullWidth mt="md" color="pink">
+                                youtube
+                            </Button></a>
                         </Group>
                     </Grid.Col>
                 </Grid>

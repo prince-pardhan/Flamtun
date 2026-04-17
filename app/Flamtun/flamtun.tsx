@@ -121,9 +121,7 @@ export default function MusicStudio() {
                                     <Title order={4} mt="md" c="white">
                                         {video.title}
                                     </Title>
-                                    <a href="https://www.youtube.com/@cultproduction01" target="_blank"><Button fullWidth mt="md" color="pink">
-                                        youtube
-                                    </Button></a>
+                                   
 
                                 </Card>
                             </Grid.Col>
